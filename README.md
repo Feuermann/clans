@@ -25,7 +25,7 @@ Install all the python module dependencies in requirements.txt
 Start server
 
 ```
-  ./bin/run.sh start
+  ./run.sh
 ```
 
 For populate random data launch (*need request package or venv activate*)
