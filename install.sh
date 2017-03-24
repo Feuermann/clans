@@ -18,7 +18,7 @@ virtualenv -p python3 .venv
 source .venv/bin/activate
 
 # install required python packages
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 # update alembic config
 python3 install.py
